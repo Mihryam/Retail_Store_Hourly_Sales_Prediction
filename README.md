@@ -5,7 +5,7 @@ A Machine Learning Model for a Retail Superstore chain seeking to gain insights 
 
 The given data consists of 4 broad attribute types:
 
-       ### Register: Attributes related to the register at which the sales transaction has taken place
-       ### Cashier: Attributes related to cashier working at the register
-       ### Store: Attributes related to a particular store
-       ### Region: Attributes related to a group of stores in the region
+        Register: Attributes related to the register at which the sales transaction has taken place
+        Cashier: Attributes related to cashier working at the register
+        Store: Attributes related to a particular store
+        Region: Attributes related to a group of stores in the region
